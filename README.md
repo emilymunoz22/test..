@@ -1,2 +1,2 @@
-# test..
+# curso
 repo de git pruebas
